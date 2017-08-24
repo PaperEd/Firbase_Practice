@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "537310370287",
-    "firebase_url": "https://practice-b9ebd.firebaseio.com",
-    "project_id": "practice-b9ebd",
-    "storage_bucket": "practice-b9ebd.appspot.com"
+    "project_number": "127622000731",
+    "firebase_url": "https://practice2-738ad.firebaseio.com",
+    "project_id": "practice2-738ad",
+    "storage_bucket": "practice2-738ad.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:537310370287:android:81e27d6adc91522d",
+        "mobilesdk_app_id": "1:127622000731:android:81e27d6adc91522d",
         "android_client_info": {
           "package_name": "com.example.dwg76.firebase_practice"
         }
       },
       "oauth_client": [
         {
-          "client_id": "537310370287-0sb0vuot8cci9ol6dshegghk8q4fl5c2.apps.googleusercontent.com",
+          "client_id": "127622000731-dm2p743a6um43qp0m5rn7h87v9g9nuce.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBOATIyMvmd363sRxYgjMs4qo7UJN1vIRE"
+          "current_key": "AIzaSyD6ssVRiULHOdfBLlc1I8YVSFIMAov-Tq0"
         }
       ],
       "services": {
